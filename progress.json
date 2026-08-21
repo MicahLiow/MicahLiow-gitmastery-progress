@@ -151,5 +151,15 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787310528.542464,
+    "completed_at": 1787310534.258635,
+    "comments": [
+      "Answer for Which are the new values in staged files? is empty.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
